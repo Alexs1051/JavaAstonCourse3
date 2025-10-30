@@ -46,4 +46,4 @@ https://github.com/user-attachments/assets/04fd4622-9d49-4f54-aa66-65e512391448
 <img width="1279" height="796" alt="Screenshot_12" src="https://github.com/user-attachments/assets/b540d147-bdb1-43c6-8d42-6690c81e7d4a" />
 
 #### Тестовое покрытие
-<img width="1763" height="275" alt="Screenshot_13" src="https://github.com/user-attachments/assets/f5679675-38f5-4ea2-b50e-312f8275fc9c" />
+<img width="1764" height="275" alt="Screenshot_2" src="https://github.com/user-attachments/assets/94dd1bf3-ee08-414f-9f06-e319be8672a4" />
